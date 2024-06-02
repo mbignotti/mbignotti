@@ -6,7 +6,7 @@ I am a data scientist with 4+ years of experience, a statistician by training an
 
 I have in depth experience working with time series and tabular data, mostly in the industrial/manufacturing field, with a few excursions in digital payments. 
 
-Over the years, I have learnt to appreciate the beauty and importance of simplicity. Just as much as software development is not only about coding, data science is not only about algorithms. It's about solving problems. And when I have to solve a problem, I always try to ask myself: [what's the simplest possible thing that might work, and why didn't you try that first?](https://www.youtube.com/watch?v=MW9oVxjJHEw)
+Over the years, I have learnt to appreciate the beauty and importance of simplicity. Just as much as software development is not only about coding, data science is not only about algorithms. It's about solving problems. And when I have to solve a problem, I always try to ask myself: what's the simplest possible thing that might work, and why didn't you try that first?
 
 *Reference: [An Ode to Simplicity](https://fbruzzesi.github.io/blog/2024/01/29/an-ode-to-simplicity/)*
 
