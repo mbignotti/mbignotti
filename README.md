@@ -45,4 +45,4 @@ Over the years, I have learnt to appreciate the beauty and importance of simplic
 
 ## 📫 How to reach me
 
-The best way to contact me is either on [linkedin](https://www.linkedin.com/in/bignottim/), or by [email](bignottimarco95@gmail.com).
+The best way to contact me is on [linkedin](https://www.linkedin.com/in/bignottim/) or by [email](bignottimarco95@gmail.com).
